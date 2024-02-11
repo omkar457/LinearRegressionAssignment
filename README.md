@@ -44,7 +44,7 @@ Give credit here.
 
 
 ## Contact
-Created by @dineshkerlepalli - feel free to contact me!
+Created by omkar.joshi457@gmail.com
 
 
 <!-- Optional -->
